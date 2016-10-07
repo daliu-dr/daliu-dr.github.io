@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            David Liu
+tagline:          'AI, AR, Medicine'
+description:      'I'm a medical student from Melbourne with a penchant for artificial intelligence and virtual/augmented reality. Doctor at Monash Health 2017.'
+url:              https://daliu-dr.github.io
+baseurl:          /
+
+author:
+  name:           'David Liu'
+  url:            https://twitter.com/keydaliu
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/projectwakii
