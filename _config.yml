@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            David Liu
 tagline:          'AI, AR, Medicine'
-description:      'I'm a medical student from Melbourne with a penchant for artificial intelligence and virtual/augmented reality. Doctor at Monash Health 2017.'
+description:      'Medical student from Melbourne with a penchant for artificial intelligence and virtual/augmented reality. Doctor at Monash Health 2017.'
 url:              https://daliu-dr.github.io
 baseurl:          /
 
