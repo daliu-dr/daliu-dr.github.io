@@ -5,26 +5,23 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+google_analytics: UA-85352226-1
+title: David Liu
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: David Liu
 
-description: Stylish Jekyll Theme
+description: Medical student with a penchant for artificial intelligence and augmented reality.
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  name: David Liu
+  email: daliuvr@gmail.com
+  twitter: keydaliu
+  linkedin: david-liu-20188443
+  bio: Medical student with a penchant for artificial intelligence and augmented reality.
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
