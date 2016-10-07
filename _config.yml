@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               David Liu
+tagline:             AI, AR, Medicine
 url:                 https://daliu-dr.github.io
 paginate:            1
 baseurl:             ""
@@ -17,7 +17,7 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              David Liu
   url:               https://twitter.com/keydaliu
   email:             daliuvr@gmail.com
 
